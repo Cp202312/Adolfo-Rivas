@@ -258,7 +258,7 @@ const geoJSONData = {
             "properties": {
                 "lugar": "Implementos deportivos (Tacos)",
                 "fecha": "14-09-2024",
-                "distrito": "San Pedro MAsahuat",
+                "distrito": "San Pedro Masahuat",
                 "canton": "El Achiotal",
                 "facebook": "https://www.facebook.com/share/p/CQCqrzTV6cXNGnpt/" // Enlace a la publicación de Facebook
             },
@@ -266,7 +266,23 @@ const geoJSONData = {
                 "type": "Point",
                 "coordinates": [-89.032814, 13.404039]
             }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "lugar": "Entrega de instrumentos",
+                "fecha": "09-09-2024",
+                "distrito": "San Juan Nonualco",
+                "canton": "San Juan Nonualco",
+                "facebook": "https://www.facebook.com/share/p/8kAisc7xxma2ELEX/" // Enlace a la publicación de Facebook
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-88.897234, 13.501521]
+            }
         }
+
 
 
 
