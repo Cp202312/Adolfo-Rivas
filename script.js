@@ -251,6 +251,21 @@ const geoJSONData = {
                 "type": "Point",
                 "coordinates": [-89.005623, 13.345877]
             }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "lugar": "Implementos deportivos (Tacos)",
+                "fecha": "14-09-2024",
+                "distrito": "San Pedro MAsahuat",
+                "canton": "El Achiotal",
+                "facebook": "https://www.facebook.com/share/p/U8keBKFavubxDbmC/" // Enlace a la publicación de Facebook
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.032814, 13.404039]
+            }
         }
 
 
