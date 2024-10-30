@@ -260,7 +260,7 @@ const geoJSONData = {
                 "fecha": "14-09-2024",
                 "distrito": "San Pedro MAsahuat",
                 "canton": "El Achiotal",
-                "facebook": "https://www.facebook.com/share/p/U8keBKFavubxDbmC/" // Enlace a la publicación de Facebook
+                "facebook": "https://www.facebook.com/share/p/CQCqrzTV6cXNGnpt/" // Enlace a la publicación de Facebook
             },
             "geometry": {
                 "type": "Point",
