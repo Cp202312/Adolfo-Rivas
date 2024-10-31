@@ -281,6 +281,21 @@ const geoJSONData = {
                 "type": "Point",
                 "coordinates": [-88.897234, 13.501521]
             }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "lugar": "Fiesta infantil",
+                "fecha": "31-10-2024",
+                "distrito": "Zacatecoluca",
+                "canton": "Zacatecoluca",
+                "facebook": "https://www.facebook.com/share/p/17diZYZjE1/" // Enlace a la publicación de Facebook
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-88.873603, 13.508401]
+            }
         }
 
 
