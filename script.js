@@ -289,7 +289,7 @@ const geoJSONData = {
                 "lugar": "Fiesta infantil",
                 "fecha": "31-10-2024",
                 "distrito": "Zacatecoluca",
-                "canton": "Zacatecoluca",
+                "canton": "Barrio Analco",
                 "facebook": "https://www.facebook.com/share/p/17diZYZjE1/" // Enlace a la publicación de Facebook
             },
             "geometry": {
