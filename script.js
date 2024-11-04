@@ -1,5 +1,5 @@
 // Crear el mapa centrado en el departamento de La Paz
-const map = L.map('map').setView([13.45, -89.1], 11);
+const map = L.map('map').setView([13.459658,-88.905675], 11.2);
 
 // Cargar la capa base de OpenStreetMap
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
